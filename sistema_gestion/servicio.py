@@ -1,4 +1,7 @@
-
+# Nombre del estudiante: Alex Stiven Ordoñez Solano
+# Grupo: 213023_254
+# Programa: Ingeniería de Sistemas
+# Código Fuente: autoría propia
 
 from abc import ABC, abstractmethod
 from exceptions import ErrorServicio, ErrorValidacion
